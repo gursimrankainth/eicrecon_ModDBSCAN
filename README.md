@@ -1,1 +1,1 @@
-nothing
+Repository contains three files; the factory, configuration and algorithm script for a Modified version of the DBSCAN algorithm used for clustering for the ZDC. This algorithm is currently being tested and debugged for use in the EICRECON framework. 
